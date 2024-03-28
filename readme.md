@@ -30,3 +30,8 @@
 * Change name, email, and/or password for each UserID (Primary Key)
 * Create/Edit/Delete listing of cars database (Make/Model/Year)
 * Create/Edit/Delete record database for each car (ServiceDate/ServiceType/Cost)
+
+
+## Required Installations
+- *XAMPP* -- https://www.apachefriends.org/download.html
+- Any IDE that can read PHP (Visual Studio Code, Notepad++, ...)
