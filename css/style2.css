@@ -16,6 +16,7 @@ body {
     background-position: center;
     background-size: cover;
     padding-top: 20px;
+    color:rgb(241, 124, 52)
 }
 
 .container {
@@ -128,6 +129,13 @@ body {
 }
 
 
+.navbar-expand-lg .navbar-nav .dropdown-menu {
+    position: relative;
+}
+.nav-link {
+    color: #ff4900;
+}
+
 .links {
     margin: 25px;
     text-align: center;
@@ -135,7 +143,7 @@ body {
 
 .links a {
     text-decoration: none;
-    color: #2B547E;
+    color: #f69023;
 }
 
 .links a:hover {
